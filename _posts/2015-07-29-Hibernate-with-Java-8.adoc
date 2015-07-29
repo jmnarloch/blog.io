@@ -1,1 +1,5 @@
-= Hibernate
+= Hibernate with Java 8
+
+== Example
+
+== Features
